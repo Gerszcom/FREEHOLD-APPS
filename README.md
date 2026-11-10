@@ -1,7 +1,7 @@
 # FREEHOLD's applications
 
 The applications FREEHOLD's `GET` installs (FREEHOLD's `DECISIONS.md`,
-D-107, D-115 and D-116). FREEHOLD ships without them; a machine that wants
+D-107, D-115, D-122 and D-123). FREEHOLD ships without them; a machine that wants
 one types its name:
 
 ```

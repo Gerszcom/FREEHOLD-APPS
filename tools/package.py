@@ -12,7 +12,7 @@ into ZIPS/NAME-VERSION.ZIP, entries sorted and dated 2026-01-01 so the
 same files always give the same zip, and CATALOG.TXT is written again from
 every zip in ZIPS whose version is the one in its PROGRAM.INF.
 
-A catalog line is NAME VERSION BYTES SHA256 ADDRESS DESCRIPTION (D-116);
+A catalog line is NAME VERSION BYTES SHA256 ADDRESS DESCRIPTION (D-122);
 the address is relative to the catalog, which GitHub serves from the
 repository's main branch.
 """
@@ -106,7 +106,7 @@ def package(freehold, name):
 
 
 def catalog():
-    lines = ["; FREEHOLD's applications: GET reads this file (FREEHOLD's DECISIONS.md, D-116).",
+    lines = ["; FREEHOLD's applications: GET reads this file (FREEHOLD's DECISIONS.md, D-122).",
              "; NAME VERSION BYTES SHA256 ADDRESS DESCRIPTION; addresses are relative to this file.",
              "; Written by tools/package.py; do not edit by hand."]
     for name in sorted(FILES):

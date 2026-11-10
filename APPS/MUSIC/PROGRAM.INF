@@ -1,0 +1,9 @@
+[Program]
+Name=Music player
+Version=1.0-1
+Description=Plays WAV, FLAC, MP3, Ogg Vorbis and MIDI (through the FluidR3 Mono SoundFont)
+Licence=MIT (the player, FREEHOLD's; TinySoundFont; the FluidR3 Mono SoundFont, FLUIDR3.TXT); Unlicense or MIT-0 (dr_libs); Unlicense or MIT (stb_vorbis)
+Source=SRC\MUSIC.C, from FREEHOLD's ports/music, built by FREEHOLD's tools/ports.sh
+
+[Commands]
+MUSIC=MUSIC.EXE

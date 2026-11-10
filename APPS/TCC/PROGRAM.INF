@@ -1,0 +1,9 @@
+[Program]
+Name=TinyCC
+Version=0.9.28rc-1
+Description=TCC, a C compiler that runs on FREEHOLD and makes FREEHOLD programs
+Licence=LGPL-2.1-or-later (TCC, its source in SRC); MIT (FREEHOLD's C library, LIB\CLIB.O, and headers); Unlicense or MIT-0 (dr_libs), Unlicense or MIT (stb_vorbis), MIT (TinySoundFont) for the audio headers in INCLUDE
+Source=https://github.com/TinyCC/tinycc at 70adbb129760b77e3bdfec447c1f986def763f2c with FREEHOLD's patch (SRC\FREEHOLD.PAT), built by FREEHOLD's tools/ports.sh
+
+[Commands]
+TCC=TCC.EXE

@@ -1,0 +1,9 @@
+[Program]
+Name=ripgrep
+Version=15.2.0-1
+Description=rg, a fast recursive search through files for a pattern
+Licence=Unlicense or MIT (COPYING, UNLICENSE, LICENSE-MIT)
+Source=https://crates.io/crates/ripgrep 15.2.0, unchanged, built with FREEHOLD's tools/std-port.sh install ripgrep@15.2.0
+
+[Commands]
+RG=RG.EXE

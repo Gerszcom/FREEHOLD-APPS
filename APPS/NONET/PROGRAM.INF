@@ -1,0 +1,9 @@
+[Program]
+Name=nonet
+Version=0.1.0-1
+Description=A Sudoku solver that animates its search in the terminal
+Licence=MIT
+Source=https://crates.io/crates/nonet 0.1.0, unchanged, built with FREEHOLD's tools/std-port.sh install nonet@0.1.0
+
+[Commands]
+NONET=NONET.EXE

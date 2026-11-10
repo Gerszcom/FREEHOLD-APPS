@@ -1,0 +1,9 @@
+[Program]
+Name=egui demo
+Version=0.1.0-1
+Description=egui's demo, full-screen on FREEHOLD with the mouse and keyboard
+Licence=MIT (FREEHOLD's host, freehold-egui); MIT or Apache-2.0 (egui 0.37 and egui_demo_lib)
+Source=FREEHOLD's std-programs/eguidemo, built by tools/std-port.sh build
+
+[Commands]
+EGUIDEMO=EGUIDEMO.EXE

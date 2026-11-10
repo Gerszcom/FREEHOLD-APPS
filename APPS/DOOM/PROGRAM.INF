@@ -1,0 +1,9 @@
+[Program]
+Name=DOOM (doomgeneric) with Freedoom
+Version=0.13.0-1
+Description=DOOM's engine (doomgeneric) and Freedoom: Phase 1, its free game data
+Licence=GPL-2.0-only (doomgeneric, its source here, LICENSE); BSD-3-Clause (Freedoom, FREEDOOM.TXT)
+Source=https://github.com/ozkl/doomgeneric at e257a09527062bfb986b6e5e0780839b6cbd5b71 with FREEHOLD's patch (FREEHOLD.PAT, RECIPE.TXT); Freedoom 0.13.0 (freedoom-0.13.0.zip, sha256 3f9b264f3e3ce503b4fb7f6bdcb1f419d93c7b546f4df3e874dd878db9688f59)
+
+[Commands]
+DOOM=DOOM.EXE -iwad C:\APPS\DOOM\FREEDOOM1.WAD

@@ -1,0 +1,3 @@
+*.ZIP binary
+*.INF text eol=crlf
+CATALOG.TXT text eol=crlf

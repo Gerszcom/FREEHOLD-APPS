@@ -1,0 +1,9 @@
+[Program]
+Name=file-serve
+Version=0.3.11-1
+Description=Serves the current directory over HTTP
+Licence=MIT or Apache-2.0 (LICENSE-MIT, LICENSE-APACHE)
+Source=https://crates.io/crates/file-serve 0.3.11, unchanged, built with FREEHOLD's tools/std-port.sh install file-serve@0.3.11
+
+[Commands]
+FILE-SERVE=FILE-SERVE.EXE

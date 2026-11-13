@@ -44,6 +44,10 @@ FILES = {
                   ("@crate:file-serve-0.3.11/LICENSE-MIT", "LICENSE-MIT"),
                   ("@crate:file-serve-0.3.11/LICENSE-APACHE", "LICENSE-APACHE")],
     "NONET": [("dist/extras/APPS/NONET.EXE", "NONET.EXE")],
+    # Prospector is built in its own repository (elBandoler/Prospector):
+    # its scripts/freehold-dist.sh, run with this path, puts the program
+    # directory here in the FREEHOLD checkout it was built against.
+    "PROSPECTOR": [("dist/extras/APPS/PROSPECTOR", "")],
 }
 
 STAMP = (2026, 1, 1, 0, 0, 0)

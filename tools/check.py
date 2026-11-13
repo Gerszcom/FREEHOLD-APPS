@@ -29,6 +29,7 @@ CHECKS = {
     "RIPGREP": [("C:\\APPS\\RIPGREP\\RG --version", r"ripgrep 15\.2\.0")],
     "FILESERVE": [("DIR C:\\APPS\\FILESERVE", r"FILE-SERVE\.EXE")],
     "NONET": [("DIR C:\\APPS\\NONET", r"NONET\.EXE")],
+    "PROSPECTOR": [("C:\\APPS\\PROSPECTOR\\PROSPECTOR --version", r"Prospector \d+\.\d+\.\d+")],
 }
 
 

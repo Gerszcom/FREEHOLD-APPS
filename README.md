@@ -30,6 +30,7 @@ application completely.
 | `RIPGREP` | `rg`, ripgrep 15.2.0 | Unlicense or MIT |
 | `FILESERVE` | `file-serve` 0.3.11: the current directory over HTTP | MIT or Apache-2.0 |
 | `NONET` | A Sudoku solver that animates its search | MIT |
+| `PROSPECTOR` | Prospector, a web browser written in Rust (full-screen, mouse and keyboard; `PROSPECTOR lists update` fetches its filter lists), built in its own repository, `elBandoler/Prospector` | AGPL-3.0-only; Stylo and adblock-rust MPL-2.0; its fonts (Roboto) Apache-2.0 |
 
 Each application's `PROGRAM.INF` (in `APPS/NAME/`) names it, its version,
 its licence and the exact source it was built from, and its commands. The

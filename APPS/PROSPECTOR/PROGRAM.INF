@@ -1,9 +1,9 @@
 [Program]
 Name=prospector
-Version=0.1.0-6
+Version=0.1.0-7
 Description=Prospector, a web browser written in Rust, with a built-in blocker (the Shield) that reads uBlock Origin's filter lists
 Licence=AGPL-3.0-only (LICENSE.TXT; Stylo and adblock-rust: MPL-2.0); fonts in FONTS: Apache-2.0 (FONTS\LICENSE.TXT)
-Source=https://github.com/elBandoler/Prospector at 09737019b95fa1bd1cadd3049ffd9e525433e2d0, built by its scripts/freehold-build.sh against FREEHOLD 7f8d815a21785199acb59b59c04f7bc19ef17fe8
+Source=https://github.com/elBandoler/Prospector at 63399d91a110048289cbdceaaedbd48ec2a3152d, built by its scripts/freehold-build.sh against FREEHOLD 3e23216fbe48160c978985f2d37fe8300ab28152
 
 [Commands]
 PROSPECTOR=PROSPECTOR.EXE

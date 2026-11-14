@@ -7,6 +7,6 @@ FILESERVE 0.3.11-1 191500 07fed47d50890e77645e489ba33af8c84cbb9168feb96e3a8f757c
 LUA 5.4.7-1 277517 7c57cb797ac0f38d139c874319a229c53c1e08f8b87bed4239d6f9fae8e9601d ZIPS/LUA-5.4.7-1.ZIP Lua 5.4.7's source, for TCC to build: TCC -o LUA.EXE ONELUA.C
 MUSIC 1.0-1 11142117 83dc70af9e379989f45e9a5178b1b815610c901c48c9bfccedff99d8c4759061 ZIPS/MUSIC-1.0-1.ZIP Plays WAV, FLAC, MP3, Ogg Vorbis and MIDI (through the FluidR3 Mono SoundFont)
 NONET 0.1.0-1 301241 ae00d8265bb6b25ade1fb36d8498a3244c8f4b972ee6727f46f73a90263ff505 ZIPS/NONET-0.1.0-1.ZIP A Sudoku solver that animates its search in the terminal
-PROSPECTOR 0.1.0-7 22577143 e63c6253fcf029cf6655c44a72ac239c7dd7cc5af4be73649730cb0860376b28 ZIPS/PROSPECTOR-0.1.0-7.ZIP Prospector, a web browser written in Rust, with a built-in blocker (the Shield) that reads uBlock Origin's filter lists
+PROSPECTOR 0.1.0-8 22759903 e4161bed045462f8883e0457943984180b29a5d1556b09756a6f47267f85ecd2 ZIPS/PROSPECTOR-0.1.0-8.ZIP Prospector, a web browser written in Rust, with a built-in blocker (the Shield) that reads uBlock Origin's filter lists
 RIPGREP 15.2.0-1 1700010 c1030087d5dfc3d8a1995fb969e864573e05fea5933234e728f4310f36694dcc ZIPS/RIPGREP-15.2.0-1.ZIP rg, a fast recursive search through files for a pattern
 TCC 0.9.28rc-1 1273484 cf6ae29f12819b85a88304c21497ffc8380dc61ba73493b5c037090ca31e9aff ZIPS/TCC-0.9.28rc-1.ZIP TCC, a C compiler that runs on FREEHOLD and makes FREEHOLD programs
